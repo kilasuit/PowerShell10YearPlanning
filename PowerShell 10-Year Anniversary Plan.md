@@ -19,8 +19,9 @@ Approach:
 
 * Live video dial-up conference call will be running continuously during the event
 * Event will be hosted from Redmond by Keith, who will coordinate and turn presentation over to others
-* Presenters and user groups that can present live will be given control 
-* Videos will be shown from Redmond on schedules
+* Presenters can present live, can be given control
+* Videos will be shown from Redmond on pre-set schedules, with intro and exit from the "owner" of the video. 
+Video owner may call in or be present at studio in Redmond. 
 * Most presentations should plan for **(?15 minutes?)**
 
 
