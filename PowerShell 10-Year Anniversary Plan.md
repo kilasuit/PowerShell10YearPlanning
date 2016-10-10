@@ -36,7 +36,7 @@ Video owner may call in or be present at studio in Redmond.
 * Long-standing PS team members speak (Bruce, Jason, Lee, Hemant, Dan, ??)
 * Cool item: Using PowerShell to manage a Tesla
 * Potential cool item: control an IOT Robot using PowerShell (a' la: https://www.instagram.com/p/BH-NPSvj8UN/)
-* Potential cool item: Build your MineCraft server using DSC
+* Cool item: Build your MineCraft server using DSC
 * Potential cool item: Build ChatOps for Azure with PowerShell, Slack, AzureBot, GitHub userBot...
 * Cool item: Controlling house sprinklers with PowerShell
 * Cool item: SQL Server cmdlets developed with community
