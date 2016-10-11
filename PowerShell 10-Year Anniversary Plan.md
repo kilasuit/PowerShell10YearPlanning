@@ -11,7 +11,7 @@ This is a working document, not (yet) a set of commitments.
 
 ##Logistics##
 Date & times: 
-November 14, 2016 from 06:00-16:00 PST (14:00-24:00 GTC)
+November 14, 2016 from 08:00-16:00 PST (14:00-24:00 GTC)
 
 See [Time Picker](http://www.timeanddate.com/worldclock/meetingtime.html?iso=20161114&p1=234&p2=240&p3=236&p4=69&p5=179&p6=70&p7=197) for broader range of time zones.
 
@@ -62,38 +62,15 @@ Video owner may call in or be present at studio in Redmond.
 <td>____________________________________________________________</td>
 </tr> 
 <tr> 
-<td>06:00</td> 
+<td>08:00</td> 
 <td>Kickoff / Keynote: PowerShell Then and Now</td>
 <td>Keith (Kenneth/Jeffrey)</td>
 <td>30 minute kickoff with Jeffrey & Kenneth talking</td>
 </tr> 
 <tr> 
-<td>06:30</td> 
-<td></td>
-<td></td>
-<td></td>
-</tr> 
-<tr> 
-<td>07:00</td> 
-<td></td>
-<td></td>
-<td></td>
-</tr> 
-<tr> 
-<td>07:30</td> 
-<td></td>
-<td></td>
-<td></td>
-</tr> 
-<tr> 
-<td>08:00</td> 
+<td>08:30</td> 
 <td>Controlling garden sprinklers using PowerShell</td>
 <td>Roman Stadlmair  HYPERLINK "mailto:rs@rconsult.at" rs@rconsult.at</td>
-<td></td>
-</tr> 
-<tr> 
-<td>08:30</td> 
-<td></td>
 <td></td>
 <td></td>
 </tr> 
