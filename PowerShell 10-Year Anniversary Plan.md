@@ -69,9 +69,9 @@ Video owner may call in or be present at studio in Redmond.
 </tr> 
 <tr> 
 <td>08:30</td> 
-<td>Controlling garden sprinklers using PowerShell</td>
-<td>Roman Stadlmair  HYPERLINK "mailto:rs@rconsult.at" rs@rconsult.at</td>
-<td></td>
+<td>Manage your garden-sprinkler and your mood with PowerShell</td>
+<td>PowerShell Usergroup Austria - Roman Stadlmair  HYPERLINK "mailto:rs@rconsult.at" rs@rconsult.at</td>
+<td>This session is about simplification and making your life easier with one-liners. You will see gardens, dwarfs, scripts and people with changed moods - all done through the magic of PowerShell.</td>
 <td></td>
 </tr> 
 <tr> 
