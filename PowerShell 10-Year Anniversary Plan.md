@@ -50,7 +50,7 @@ Video owner may call in or be present at studio in Redmond.
 
 <table> 
 <tr> 
-<td> Time </td> 
+<td> Time (PST)</td> 
 <td> Title </td>
 <td> Owner</td>
 <td> Description</td>
