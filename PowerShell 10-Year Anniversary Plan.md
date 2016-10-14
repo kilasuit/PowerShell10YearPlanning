@@ -41,6 +41,7 @@ Video owner may call in or be present at studio in Redmond.
 * Potential cool item: Build ChatOps for Azure with PowerShell, Slack, AzureBot, GitHub userBot...
 * Cool item: Controlling house sprinklers with PowerShell
 * Cool item: SQL Server cmdlets developed with community
+* PowerShell and OMS
 * Angel, possibly Kenneth - speak to directions
 * PowerShell Conferences in Europe, US, Asia summary & highlights - Ben
 * What really happens when you are a PowerShell Open Source reviewer or maintainer? 
