@@ -90,9 +90,12 @@ Video owner may call in or be present at studio in Redmond.
 </tr> 
 <tr> 
 <td>10:00</td> 
-<td></td>
-<td></td>
-<td></td>
+<td>PowerShell Evolution</td>
+<td>Richard Siddaway</td>
+<td>Using [ADSI] scripting vs AD cmdlets, 
+Using WMI vs networking and/or storage cmdlets, 
+Using long running scripts vs Jobs
+</td>
 </tr> 
 <tr> 
 <td>10:30</td> 
