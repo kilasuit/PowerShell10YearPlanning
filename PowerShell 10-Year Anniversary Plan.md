@@ -29,6 +29,7 @@ Video owner may call in or be present at studio in Redmond.
 ##Proposed activities and presentations##
 * _Kickoff: Jeffrey/Kenneth present on THEN & Now_
 * Coding contest, with Coding Golf concept being highlighted as most feasible
+* PowerShell Pull Request challenge during the event? (Kirk to think about)
 * AMA on Reddit
 * Short videos of how folks got started with PowerShell, & what’s the coolest thing they’ve done/seen
 * Videos or live shots where user groups are together & joining in, talking about the stuff above
