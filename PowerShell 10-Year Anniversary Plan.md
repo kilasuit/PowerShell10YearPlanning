@@ -22,6 +22,7 @@ Approach:
 * Presenters can present live, can be given control
 * Videos will be shown from Redmond on pre-set schedules, with intro and exit from the "owner" of the video. 
 Video owner may call in or be present at studio in Redmond. 
+* The __minimum__ video resolution should be 1280x720 .mp4 in 30fps for best presentation. 
 * Most presentations should plan for **(?15 minutes?)**
 
 
