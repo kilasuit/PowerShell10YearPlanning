@@ -76,7 +76,6 @@ Video owner may call in or be present at studio in Redmond.
 <td>Manage your garden-sprinkler and your mood with PowerShell</td>
 <td>PowerShell Usergroup Austria - Roman Stadlmair  HYPERLINK "mailto:rs@rconsult.at" rs@rconsult.at</td>
 <td>This session is about simplification and making your life easier with one-liners. You will see gardens, dwarfs, scripts and people with changed moods - all done through the magic of PowerShell.</td>
-<td></td>
 </tr> 
 <tr> 
 <td>09:00</td> 
@@ -152,6 +151,7 @@ PowerShell Gallery, easy to use & how – Ryan Yates on modules he finds the mos
 <td>Ben Hodge</td>
 <td>Build ChatOps for Azure with PowerShell, Slack, AzureBot, GitHub userBot</td>
 </tr> 
+<tr>
 <td>14:15</td> 
 <td></td>
 <td></td>
