@@ -38,7 +38,7 @@ Video owner may call in or be present at studio in Redmond.
 * Cool item: Using PowerShell to manage a Tesla
 * Potential cool item: control an IOT Robot using PowerShell (a' la: https://www.instagram.com/p/BH-NPSvj8UN/)
 * Cool item: Build your MineCraft server using DSC
-* Potential cool item: Build ChatOps for Azure with PowerShell, Slack, AzureBot, GitHub userBot...
+* Cool item: Controlling Azure with Cloudbot. Build ChatOps for Azure with PowerShell, Slack, AzureBot, GitHub userBot...
 * Cool item: Controlling house sprinklers with PowerShell
 * Cool item: SQL Server cmdlets developed with community
 * PowerShell and OMS
@@ -146,9 +146,14 @@ PowerShell Gallery, easy to use & how – Ryan Yates on modules he finds the mos
 </tr> 
 <tr> 
 <td>14:00</td> 
-<td></td>
-<td></td>
-<td></td>
+<td>Controlling Azure with Cloudbot</td>
+<td>Ben Hodge</td>
+<td>Build ChatOps for Azure with PowerShell, Slack, AzureBot, GitHub userBot</td>
+</tr> 
+<td>14:15</td> 
+<td>Controlling Azure with Cloudbot</td>
+<td>Ben Hodge</td>
+<td>Build ChatOps for Azure with PowerShell, Slack, AzureBot, GitHub userBot</td>
 </tr> 
 <tr> 
 <td>14:30</td> 
