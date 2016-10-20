@@ -41,6 +41,7 @@ Video owner may call in or be present at studio in Redmond.
 * Cool item: Controlling Azure with Cloudbot. Build ChatOps for Azure with PowerShell, Slack, AzureBot, GitHub userBot...
 * Cool item: Controlling house sprinklers with PowerShell
 * Cool item: SQL Server cmdlets developed with community
+* State of PowerShell Community - then and now (Ed Wilson)
 * PowerShell and OMS
 * Angel, possibly Kenneth - speak to directions
 * PowerShell Conferences in Europe, US, Asia summary & highlights - Ben
@@ -99,9 +100,9 @@ Using long running scripts vs Jobs
 </tr> 
 <tr> 
 <td>10:30</td> 
-<td></td>
-<td></td>
-<td></td>
+<td>PowerShell Community, then and now</td>
+<td>Ed Wilson +1</td>
+<td>Ed Wilson (the __Scripting Guy__) and an MVP about state of Posh community then and now </td>
 </tr> 
 <tr> 
 <td>11:00</td> 
