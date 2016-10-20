@@ -6,7 +6,7 @@ The [planning document](https://github.com/JKeithB/PowerShell10YearPlanning/blob
 There are some materials provided as well, specifically:
 
 * A very basic [PowerPoint presentation template](https://github.com/JKeithB/PowerShell10YearPlanning/blob/master/PowerShell10YearPresentationTemplate.potx)
-* Two representations of the logo we will be reusing (in JPG and PNG)
+* Two representations of the logo we will be reusing, in [JPG](https://github.com/JKeithB/PowerShell10YearPlanning/blob/master/PowerShell10YearLogo.jpg) and [PNG](https://github.com/JKeithB/PowerShell10YearPlanning/blob/master/PowerShell10YearLogo.png) formats.
 
 If there are any questions, please contact Keith Bankston at
 
