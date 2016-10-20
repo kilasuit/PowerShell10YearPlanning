@@ -60,16 +60,10 @@ Video owner may call in or be present at studio in Redmond.
 <td> Description</td>
 </tr>
 <tr> 
-<td>__________</td>
-<td>________________________________________</td> 
-<td>____________________</td>
-<td>____________________________________________________________</td>
-</tr> 
-<tr> 
 <td>08:00</td> 
 <td>Kickoff / Keynote: PowerShell Then and Now</td>
 <td>Keith (Kenneth/Jeffrey)</td>
-<td>30 minute kickoff with Jeffrey & Kenneth talking</td>
+<td>30 minute kickoff with Jeffrey and Kenneth talking</td>
 </tr> 
 <tr> 
 <td>08:30</td> 
@@ -153,9 +147,9 @@ PowerShell Gallery, easy to use & how – Ryan Yates on modules he finds the mos
 </tr> 
 <tr>
 <td>14:15</td> 
-<td></td>
-<td></td>
-<td></td>
+<td>MineCraft server provisioned with DSC</td>
+<td>Zach Alexander</td>
+<td>Use PowerShell DSC to quickly and easily provision your own MineCraft server</td>
 </tr> 
 <tr> 
 <td>14:30</td> 
