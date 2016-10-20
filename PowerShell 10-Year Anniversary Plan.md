@@ -151,9 +151,9 @@ PowerShell Gallery, easy to use & how – Ryan Yates on modules he finds the mos
 <td>Build ChatOps for Azure with PowerShell, Slack, AzureBot, GitHub userBot</td>
 </tr> 
 <td>14:15</td> 
-<td>Controlling Azure with Cloudbot</td>
-<td>Ben Hodge</td>
-<td>Build ChatOps for Azure with PowerShell, Slack, AzureBot, GitHub userBot</td>
+<td></td>
+<td></td>
+<td></td>
 </tr> 
 <tr> 
 <td>14:30</td> 
