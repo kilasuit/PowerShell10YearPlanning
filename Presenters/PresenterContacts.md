@@ -8,3 +8,5 @@ J. Keith Bankston, Senior Program Manager, Microsoft, keithb@microsoft.com, (206
 
 Roman Stadlmair, Microsoft MVP, PowerShell Usergroup Austria, rstadlmair@hotmail.com, +43 676 845 480 801 or +43 676 43 16 002
 
+Jon Newman, Service Engineer II, Microsoft, jonn_msft@hotmail.com, (425) 681-3083
+
