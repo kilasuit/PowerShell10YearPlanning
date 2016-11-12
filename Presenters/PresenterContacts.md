@@ -11,3 +11,5 @@ Roman Stadlmair, Microsoft MVP, PowerShell Usergroup Austria, rstadlmair@hotmail
 Jon Newman, Service Engineer II, Microsoft, jonn_msft@hotmail.com, (425) 681-3083
 
 Benjamin Hodge, Global Enterprise Evangelist, KEMP Technologies, bhodge@kemptechnologies.com, +61 408 469 601
+
+Ryan Yates, Technical Director, Re-Digitise, ryan.yates@kilasuit.org / kilasuit@hotmail.co.uk, +447342754202
